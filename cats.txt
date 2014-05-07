@@ -1,3 +1,4 @@
 Cats come in a variety of sizes.
 They like to run.
 Cats are cool!
+Cats like to jump and play.
